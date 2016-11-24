@@ -1,0 +1,44 @@
+/********************************************************
+* 				  Final Year Project 					*
+* 														*
+* Project: Plagiarism Detection							*
+* 		   (Across multiple platforms) 					*
+*														*
+* Created by: 											*
+* 			  Kshitij Srivastava 						*
+* { 													*
+* 	B.Tech. - CSE 										*
+* 	College: SRM University 							*
+* 	Kattankulathur, Chennai 							*
+* 	Reg. No: 1031210072 								*
+* } 													*
+* 														*
+*			  Chitresh Lalwani							*
+* { 													*
+* 	B.Tech. - CSE 										*
+* 	College: SRM University 							*
+* 	Kattankulathur, Chennai 							*
+* 	Reg. No: 1031210091 								*
+* } 													*
+* 														*
+* Supervision: Dr. E. Poovammal							*
+* { 													*
+* 	CSE Dept. 											*
+* 	SRM University 										*
+* 	Kattankulathur, Chennai								*
+* } 													*
+********************************************************/
+/********************************************************
+* 				 Project Description 					*
+********************************************************/
+
+This project aims at detecting plagiarism in documents across various platforms.
+
+1)	The base algorithm for the project is Rabin-Karp algorithm.
+2)	The project comprises of a local dictionary for filtering the text under test
+	to achieve context freedom to some extent.
+3)	The project is aimed to be developed across mobile and PC platforms to aid in 
+	plagiarism detection.
+4)	This is an open source project and its git repository can be viewed through
+	following link: 
+	Suggestions and improvements in the project are welcome.	
